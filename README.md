@@ -1,6 +1,6 @@
 # Explore-Editor-Vue
 
-A Vue Component for <a href="https://www.npmjs.com/package/explore-editor" target="_blank">ExploreEditor</a>
+A Vue Component for <a href="https://www.npmjs.com/package/explore-editor" target="_blank">explore-editor</a>
 
 > #### Demo : <a href="https://meta-explore.github.io/explore-editor" target="_blank">https://meta-explore.github.io/explore-editor</a>
 

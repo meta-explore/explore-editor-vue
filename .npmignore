@@ -8,6 +8,9 @@
 # production
 /build
 
+# public
+/public
+
 # src
 /src
 
