@@ -1,24 +1,17 @@
-# hello-world
+# Explore-Editor-Vue
 
-## Project setup
-```
-yarn install
-```
+A Vue Component for <a href="https://www.npmjs.com/package/explore-editor" target="_blank">ExploreEditor</a>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+> #### Demo : <a href="https://meta-explore.github.io/explore-editor" target="_blank">https://meta-explore.github.io/explore-editor</a>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+> The ExploreEditor is a lightweight, flexible, customizable WYSIWYG text editor for your web applications.
+>
+> - Pasting from Microsoft Word and Excel.
+> - Custom table selection, merge and split.
+> - Media embeds, image uploads.
+> - Can use CodeMirror.
+> - And.. many other features :)
 
-### Lints and fixes files
-```
-yarn lint
-```
+## License
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ExploreEditor may be freely distributed under the MIT license.
